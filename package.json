@@ -1,8 +1,8 @@
 {
   "name": "bbk-wallet-generator",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Simple BIP39 Ethereum Address Generator",
-  "author": " BitBitKing <BitBitKing2020@gmail.com>",
+  "author": "BitBitKing <BitBitKing2020@gmail.com>",
   "license": "MIT",
   "scripts": {
     "start": "node wallet-generate.js"
@@ -13,5 +13,10 @@
     "ethers": "^5.5.0",
     "fs": "^0.0.1-security",
     "web3": "^4.3.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BitBitKing/Wallet-Generator.git"
+  },
+  "homepage": "https://www.bitbitking.com"
 }
