@@ -18,5 +18,13 @@
     "type": "git",
     "url": "git+https://github.com/BitBitKing/Wallet-Generator.git"
   },
+  "keywords": [
+    "cryptocurrency",
+    "generate",
+    "wallet",
+    "eip",
+    "Ethereum",
+    "eth"
+  ],
   "homepage": "https://www.bitbitking.com"
 }
